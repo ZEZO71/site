@@ -1,0 +1,3 @@
+<html><head>
+<script>if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {window.location = "mobile"; }else{window.location = "pc";}</script><style>body { color: white; }</style><script>if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {window.location = "mobile"; }else{window.location = "pc";}</script><style>body { color: white; }</style>
+</head><body></body></html>

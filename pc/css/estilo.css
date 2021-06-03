@@ -1,0 +1,365 @@
+@charset "utf-8";
+.tabela-data {
+	border: 1px solid #CCCCCC;
+	height: 30px;
+	background-color: #FFFFFF;
+}
+.table-welcome {
+	background-color: #E9E9E9;
+	border: 1px solid #CCCCCC;
+	font-family: Verdana, Arial;
+	color: #F20E0F;
+	font-size: 12px;
+	font-weight: bold;
+	height: 25px;
+}
+.table-dados {
+	font-family: Verdana, Arial;
+	font-size: 10px;
+	color: #666666;
+}
+input {
+	font-family: Verdana, Arial;
+	font-size: 10px;
+	color: #666666;
+	text-decoration: none;
+	font-weight: normal;
+	font-style: normal;
+	border: 1px solid #CCCCCC;
+}
+img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+select {
+	font-family: Verdana, Arial;
+	font-size: 10px;
+	text-decoration: none;
+	font-weight: normal;
+}
+.tabelasanta {
+	height: 211px;
+	width: 312px;
+}
+.tabless {
+	width: 312px;
+	height: 211px;
+	border: 1px solid #CCCCCC;
+}
+#texto   .data   #form1   .tabless   #pos1 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos2 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos3 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos4 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos5 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos6 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos7 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos8 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos9 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos10 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto .data #form1 .tabless #nref {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	text-decoration: none;
+	width: 60px;
+	height: 13px;
+}
+
+#texto    .data    #form1    .tabless    #pos11 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto   .data   #form1   .tabless   #pos12 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos13 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos14 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos15 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos16 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos17 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos18 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos19 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos20 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos21 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos22 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto   .data   #form1   .tabless   #pos23 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos24 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos25 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos26 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos27 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos28 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos29 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos30 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos31 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos32 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos33 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto   .data   #form1   .tabless   #pos34 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos35 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos36 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos37 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos38 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos39 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos40 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos41 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos42 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos43 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos44 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos45 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos46 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos47 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos48 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos49 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+#texto    .data    #form1    .tabless    #pos50 {
+	font-family: Verdana, Arial;
+	font-size: 9px;
+	height: 13px;
+	width: 39px;
+}
+.finaliza {
+	font-family: Verdana, Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}

